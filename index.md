@@ -2,6 +2,11 @@
 layout: default
 title: Kim Hokkanen
 ---
+
+# Index
+
+Uuga booga buggy boo!
+
 <ul>
   {% for post in site.posts %}
     <li>
