@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Kim Hokkanen
+name: Kim Hokkanen
 ---
 
 # Index
